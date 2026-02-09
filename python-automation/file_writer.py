@@ -1,0 +1,5 @@
+file = open("daily_log.txt","w")
+file.write("Day 4: Laerning python file handling and automation.\n")
+file.write("consistency beats motivation.\n")
+file.close()
+print("File created and content written successfully")
